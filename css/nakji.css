@@ -20,7 +20,6 @@ h1 {
   font-weight: 400;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  text-shadow: 1px 1px 6px #000;
 }
 
 h2 {
@@ -79,13 +78,13 @@ h3 {
 }
 
 .bg-gradient {
-  position: absolute;
+  position: fixed;
   left: 0%;
   top: 0%;
   right: 0%;
   bottom: 0%;
   z-index: -1;
-  background-image: linear-gradient(135deg, rgba(0, 0, 26, 0) 50%, #000 90%);
+  background-image: linear-gradient(135deg, rgba(0, 0, 26, 0) 50%, rgba(0, 41, 175, 0.5));
 }
 
 ._3d {
