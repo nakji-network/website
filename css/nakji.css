@@ -356,7 +356,7 @@ h3 {
 
   .bg-div {
     left: -30%;
-    bottom: -10%;
+    bottom: -15%;
     width: 200%;
     min-width: 200%;
   }
@@ -367,7 +367,7 @@ h3 {
 
   .logo-lottie {
     bottom: 250px;
-    width: 50%;
+    width: 40%;
   }
 
   .form-block {
